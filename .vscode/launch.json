@@ -6,8 +6,6 @@
     "configurations": [
         {
             "type": "java",
-<<<<<<< HEAD
-=======
             "name": "CodeLens (Launch) - Demo3",
             "request": "launch",
             "mainClass": "Demo3",
@@ -15,7 +13,6 @@
         },
         {
             "type": "java",
->>>>>>> 111
             "name": "CodeLens (Launch) - NewDem1",
             "request": "launch",
             "mainClass": "NewDem1",
