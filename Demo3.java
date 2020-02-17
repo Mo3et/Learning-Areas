@@ -1,10 +1,7 @@
 import java.io.Console;
 import java.util.*;
-/**
- * Demo3
- */
 /*
- * Learning to Feb 16th
+ * Learning to Feb 16th 、Feb 17th
  */
 public class Demo3 implements Scann {// implement 为接口关键字
     //Scanner 写了interface
