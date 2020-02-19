@@ -1,3 +1,4 @@
+import java.time.DayOfWeek;
 import java.time.LocalDate;
 
 /**
@@ -18,8 +19,14 @@ public class Demo0219 {
         day=aThousandDaysLater.getDayOfMonth();
         System.out.println(year+"-"+month+"-"+day);
     }
-
+public static void AboutExample1() {
+    
+}
     public static void main(final String[] args) {
-       AboutLocalDate();
+    //    AboutLocalDate();
+    LocalDate date=LocalDate.now();
+    DayOfWeek weekday=date.getDayOfWeek();
+        int value=weekday.getValue();
+        System.out.println(value);
     }
 }
