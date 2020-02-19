@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Demo0219",
+            "request": "launch",
+            "mainClass": "Demo0219",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LotteryDrawing",
             "request": "launch",
             "mainClass": "LotteryDrawing",
