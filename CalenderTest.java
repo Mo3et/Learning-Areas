@@ -9,7 +9,7 @@ public class CalenderTest {
         LocalDate date=LocalDate.now();
         int month=date.getMonthValue();
         int today=date.getDayOfMonth();
-        //minuDays 减去指定天数
+        //minusDays 减去指定天数
         date= date.minusDays(today-1);//Set to start of month
         DayOfWeek weekday=date.getDayOfWeek();
         int value=weekday.getValue();

@@ -18,6 +18,8 @@ public class Demo0219 {
         month=aThousandDaysLater.getMonthValue();
         day=aThousandDaysLater.getDayOfMonth();
         System.out.println(year+"-"+month+"-"+day);
+        //LocalDate minusDays(int n)
+    //生成当前日期之前的n天
     }
 public static void AboutExample1() {
     
