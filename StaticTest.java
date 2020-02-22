@@ -1,5 +1,5 @@
 /**
- * StaticTest
+ * StaticTest Feb 22th
  */
 /* *包含了Employee类的一个简单版本，
 *其中有一个静态域nextId和静态方法getNextId。
