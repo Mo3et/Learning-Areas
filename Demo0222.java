@@ -17,3 +17,8 @@ public class Demo0222 {
         AboutFactoryMethod();
     }
 }
+class ins{
+public static void main(String[] args) {
+    
+}
+}
