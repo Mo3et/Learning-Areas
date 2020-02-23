@@ -12,9 +12,13 @@ public class Demo0222 {
         System.out.println(currencyFormatter.format(x));//prints $0.10
         System.out.println(percentFormatter.format(x));// prints 10%
     }
-
+    public static void tripValue(double x) {//doesn't work
+        x=3*x;
+    }
     public static void main(String[] args) {
-        AboutFactoryMethod();
+        // AboutFactoryMethod();
+        double percent=10;
+        tripValue(percent);//percent =10 x=30
     }
 }
 class ins{
