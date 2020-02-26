@@ -6,6 +6,59 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - demo2",
+            "request": "launch",
+            "mainClass": "Java.demo2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ManagerTest",
+            "request": "launch",
+            "mainClass": "inheritance.ManagerTest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "inheritance1.ManagerTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo0225",
+            "request": "launch",
+            "mainClass": "Demo0225",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo0223",
+            "request": "launch",
+            "mainClass": "Demo0223",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demo2",
+            "request": "launch",
+            "mainClass": "Java.demo2",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ManagerTest",
+            "request": "launch",
+            "mainClass": "inheritance1.ManagerTest",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ManagerTest",
+            "request": "launch",
+            "mainClass": "inheritance.ManagerTest",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Demo0222",
             "request": "launch",
             "mainClass": "Demo0222",
