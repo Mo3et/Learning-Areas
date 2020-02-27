@@ -1,7 +1,7 @@
 /**
- * Demo0225
+ * Demo0227
  */
-public class Demo0225 {
+public class Demo0227 {
 
     public static void main(String[] args) {
         

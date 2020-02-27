@@ -13,17 +13,17 @@ public class Demo0223 {
 }
 
 class Employee{
-    private String name="";
-    private double salary=0;
+    // private String name="";
+    // private double salary=0;
     private static int nextId;
     // public Employee(String n,double s){
     //     name=n;
     //     salary=s;
     // }
-    public  Employee(String aName,double aSalary) {
-        name=aName;
-        salary=aSalary;
-    }
+     public  Employee(String aName,double aSalary) {
+    //     name=aName;
+    //     salary=aSalary;
+     }
     public Employee(double s)
     {
         //calls Employee(String,double)
