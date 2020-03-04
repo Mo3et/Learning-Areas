@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PersonTest",
+            "request": "launch",
+            "mainClass": "abstractClasses.PersonTest",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - demo2",
             "request": "launch",
             "mainClass": "Java.demo2"
