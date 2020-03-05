@@ -1,10 +1,12 @@
 package abstractClasses;
 
 /**
- * PersonTest
+ * 定义了抽象超类Person和两个具体子类Employee和student。
+ * 下面将雇员和学生对象填充到Person引用数组。
  */
 
  /**
+  * 
   * This program demonstrates abstract classes
   */
 public class PersonTest {
