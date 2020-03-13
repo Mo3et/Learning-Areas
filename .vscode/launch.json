@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - hashtestcode",
+            "request": "launch",
+            "mainClass": "hashtestcode",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TeacherTreeStairs",
             "request": "launch",
             "mainClass": "TeacherTreeStairs",
