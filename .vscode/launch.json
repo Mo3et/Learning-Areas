@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - EqualsTest",
+            "request": "launch",
+            "mainClass": "equals.EqualsTest",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - hashtestcode",
             "request": "launch",
             "mainClass": "hashtestcode",
