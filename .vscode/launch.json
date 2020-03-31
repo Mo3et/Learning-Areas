@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - EnumTest",
+            "request": "launch",
+            "mainClass": "EnumTest",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - arraayModify",
+            "request": "launch",
+            "mainClass": "arraayModify",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - arraay",
+            "request": "launch",
+            "mainClass": "arraay",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - arraa",
+            "request": "launch",
+            "mainClass": "arraa",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConstructorTest",
+            "request": "launch",
+            "mainClass": "ConstructorTest",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ArrayListTest",
             "request": "launch",
             "mainClass": "ArrayListTest",
