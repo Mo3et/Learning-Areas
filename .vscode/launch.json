@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TimerTest",
+            "request": "launch",
+            "mainClass": "TimerTest",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dowork",
+            "request": "launch",
+            "mainClass": "Dowork",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EmployeeTest",
+            "request": "launch",
+            "mainClass": "interfaces.EmployeeTest",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - EnumTest",
             "request": "launch",
             "mainClass": "EnumTest",

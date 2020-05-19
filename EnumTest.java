@@ -3,6 +3,7 @@ import java.util.Scanner;
 /**
  * This program demonstrates enumerated types.
  */
+//TODO  关于枚举的知识还是不太理解 得加点课外复习了解
 public class EnumTest {
 
     public static void main(String[] args) {
@@ -26,3 +27,4 @@ enum Size{
 
     private String abbreviation;
 }
+
