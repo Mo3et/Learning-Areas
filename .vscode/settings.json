@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "Dowork"
-    ]
+    ],
+    "files.associations": {
+        "functional": "c"
+    }
 }
