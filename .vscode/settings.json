@@ -4,5 +4,16 @@
     ],
     "files.associations": {
         "functional": "c"
-    }
+    },
+    "sqltools.connections": [
+        {
+            "database": "mysql",
+            "dialect": "MySQL",
+            "name": "monet Mysql",
+            "password": "0404",
+            "port": 3306,
+            "server": "localhost",
+            "username": "Monet"
+        }
+    ]
 }
