@@ -1,0 +1,7 @@
+{
+    "java.dependency.packagePresentation": "flat",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Monet\\Desktop\\Learning Areas\\Java\\lombok.jar"
+    ]
+}

@@ -5,6 +5,10 @@ import javax.swing.Timer;
 /**
  * This program demonstrates the use of lambda expressions.
  */
+
+ /**
+  *显示了如何在一个比较器(sort)和一个动作监听器(Timer)中使用Lambda表达式
+  */
 public class LambdaTest {
     public static void main(String[] args) {
         String[] planets = new String[] { "Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus",

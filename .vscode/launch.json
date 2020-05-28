@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LambdaTest",
+            "request": "launch",
+            "mainClass": "LambdaTest",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TimerTest",
             "request": "launch",
             "mainClass": "TimerTest",
