@@ -15,5 +15,9 @@
             "server": "localhost",
             "username": "Monet"
         }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "TestProj/lib/lombok.jar"
     ]
 }
