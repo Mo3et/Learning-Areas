@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - mathtest1",
+            "request": "launch",
+            "mainClass": "mathtest1",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - tes",
+            "request": "launch",
+            "mainClass": "tes",
+            "projectName": "Java_d9bed147"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
             "mainClass": "TestProj.src.App",

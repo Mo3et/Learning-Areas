@@ -10,5 +10,6 @@ public class text1{
             i+=j;//i=i+j
         }
         System.out.println("i="+i);
+        
     }
 }
